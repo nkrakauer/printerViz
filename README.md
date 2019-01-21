@@ -11,6 +11,6 @@ Insights into 3D printing at the [makerspace.](https://making.engr.wisc.edu/)
 ### Making a conda environment
 ```
 git clone https://github.com/nkrakauer/printerViz.git
-conda env create -f environment.yaml
+conda env create -f environment.yml
 activate printerViz
 ```
