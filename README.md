@@ -1,5 +1,5 @@
 # printerViz
-Insights into 3D printing at the makerspace.
+Insights into 3D printing at the [makerspace.](making.engr.wisc.edu)
 
 ## 3D Printer Analytics Workshop
 
