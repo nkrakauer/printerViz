@@ -6,7 +6,7 @@ Insights into 3D printing at the [makerspace.](https://making.engr.wisc.edu/)
 ### Setup
 * Create a [GitHub account.](https://github.com)
 * Download [Anaconda](https://www.anaconda.com/download/) or [Miniconda.](https://conda.io/miniconda.html)
-* Download [Git.](https://git-scm.com/downloads)
+* Download [Git.](https://git-scm.com/downloads) New to Git? Read [tutorial.](http://rogerdudler.github.io/git-guide/)
 
 ### Making a conda environment
 ```
